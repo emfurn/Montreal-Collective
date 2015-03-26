@@ -1,3 +1,10 @@
+- name: EMFURN
+  category: company
+  url: emfurn.com
+  description: A modern furniture retailer based in Montreal offering free shipping on most items across North America.
+  twitter: elitemodern21
+  facebook: emfurn
+
 - name: Crew
   category: company
   url: pickcrew.com
